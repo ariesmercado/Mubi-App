@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="primaryDark">#0013CA</color>
+    <color name="primary">#6243FF</color>
+
+    <!--  Login  -->
+    <color name="font_login">#6B6B83</color>
+
+    <!--  Tabs  -->
+    <color name="tabs_font_selected">#FBFAFE</color>
+    <color name="tabs_font_default">#6B6B83</color>
+    <color name="tabs_background_selected">#6243FF</color>
+    <color name="tabs_background_default">#D5D8DB</color>
+
+    <!--  List  -->
+    <color name="list_font_title">#6B6B83</color>
+    <color name="list_font_description">#6B6B83</color>
+    <color name="list_font_star_rating">#727272</color>
+    <color name="list_background_star_rating">#21BDCA</color>
+
+    <!--  Details  -->
+    <color name="details_font_title">#6B6B83</color>
+    <color name="details_font_description">#6B6B83</color>
+
+    <!--  Profile  -->
+    <color name="font_profile_name">#6B6B83</color>
+    <color name="font_profile_username">#ABABBB</color>
+    <color name="font_profile_favorites">#6B6B83</color>
+
+</resources>
